@@ -1,0 +1,9 @@
+# vim:ft=tasks
+[start]
+command=yarn start:dev
+cwd=<root>
+output=terminal
+# silent=1
+focus=1
+notify=echo
+save=2

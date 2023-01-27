@@ -1,0 +1,9 @@
+# vim:ft=tasks
+[start]
+command=pnpm dev
+cwd=$(VIM_INIHOME)
+output=terminal
+# silent=1
+focus=1
+notify=echo
+save=2
